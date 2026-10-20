@@ -1,0 +1,265 @@
+{
+  "source": "PitWall strategy-engine.ts; actual cached 2024 Silverstone snapshots",
+  "decision": {
+    "pos": 1,
+    "code": "NOR",
+    "name": "L NORRIS",
+    "color": "#FF8000",
+    "lastLap": 101.313,
+    "averageRecentLap": 95.2326,
+    "tyre": "I",
+    "compound": "INTERMEDIATE",
+    "laps": 3,
+    "lap": 31,
+    "gap": "LEADER",
+    "paceTrace": [
+      -3.4846000000000004,
+      -3.5146000000000015,
+      -3.760600000000011,
+      -3.8256000000000085,
+      -4.286600000000007,
+      -3.5426000000000073,
+      -0.928600000000003,
+      -1.107600000000005,
+      6.203400000000002,
+      2.4713999999999885,
+      -3.7196,
+      -4.372600000000006,
+      -4.056600000000003,
+      -3.6036,
+      -0.9256000000000029,
+      6.2823999999999955,
+      9.573399999999992,
+      5.0334,
+      5.484399999999994,
+      6.080399999999997
+    ]
+  },
+  "actual": {
+    "pos": 3,
+    "code": "NOR",
+    "name": "L NORRIS",
+    "color": "#FF8000",
+    "lastLap": 90.769,
+    "averageRecentLap": 94.9795,
+    "tyre": "S",
+    "compound": "SOFT",
+    "laps": 13,
+    "lap": 51,
+    "gap": "+7.572",
+    "paceTrace": [
+      6.333500000000001,
+      7.236499999999992,
+      7.627499999999998,
+      8.098500000000001,
+      7.955500000000001,
+      7.360500000000002,
+      4.8065,
+      3.0194999999999936,
+      1.7664999999999935,
+      -5.2464999999999975,
+      -4.973500000000001,
+      -5.717500000000001,
+      -5.227500000000006,
+      -5.3444999999999965,
+      -5.019500000000008,
+      -5.141500000000008,
+      -4.423500000000004,
+      -4.464500000000001,
+      -4.435500000000005,
+      -4.210499999999996
+    ]
+  },
+  "live": [
+    {
+      "expectedPosition": 2,
+      "expectedDelta": 2.878804493930641,
+      "confidence": 80,
+      "podiumProbability": 99,
+      "winProbability": 50,
+      "p10": -0.5355321965530968,
+      "p90": 6.446190566785569,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 12
+    },
+    {
+      "expectedPosition": 2,
+      "expectedDelta": 2.8696524571712487,
+      "confidence": 80,
+      "podiumProbability": 99,
+      "winProbability": 45,
+      "p10": -0.4881849123068245,
+      "p90": 6.3780905889935235,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 12
+    },
+    {
+      "expectedPosition": 2,
+      "expectedDelta": 2.8068573696501855,
+      "confidence": 80,
+      "podiumProbability": 98,
+      "winProbability": 49,
+      "p10": -0.5331618864200773,
+      "p90": 6.293714576382042,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 12
+    },
+    {
+      "expectedPosition": 2,
+      "expectedDelta": 2.8868045048146516,
+      "confidence": 79,
+      "podiumProbability": 98,
+      "winProbability": 49,
+      "p10": -0.8547836240002114,
+      "p90": 6.6236340745647695,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 12
+    },
+    {
+      "expectedPosition": 1,
+      "expectedDelta": -3.648452834967578,
+      "confidence": 77,
+      "podiumProbability": 100,
+      "winProbability": 88,
+      "p10": -7.8035908490435855,
+      "p90": 0.6513159123742341,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 46
+    },
+    {
+      "expectedPosition": 1,
+      "expectedDelta": -3.559545527314943,
+      "confidence": 78,
+      "podiumProbability": 100,
+      "winProbability": 90,
+      "p10": -7.516550717934153,
+      "p90": 0.4718592960130457,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 46
+    },
+    {
+      "expectedPosition": 1,
+      "expectedDelta": -3.593577336757987,
+      "confidence": 78,
+      "podiumProbability": 100,
+      "winProbability": 87,
+      "p10": -7.759829916876951,
+      "p90": 0.35897125335445323,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 46
+    },
+    {
+      "expectedPosition": 1,
+      "expectedDelta": -3.5104923731433932,
+      "confidence": 78,
+      "podiumProbability": 100,
+      "winProbability": 88,
+      "p10": -7.621453588352991,
+      "p90": 0.5226842958602385,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 46
+    },
+    {
+      "expectedPosition": 1,
+      "expectedDelta": -3.715247236150987,
+      "confidence": 78,
+      "podiumProbability": 100,
+      "winProbability": 89,
+      "p10": -7.82450275270753,
+      "p90": 0.2905025812712203,
+      "bestMode": "UNDERCUT",
+      "competitorResponse": 65,
+      "weatherRisk": 46
+    }
+  ],
+  "convergence": [
+    {
+      "paths": 10000,
+      "position": 2,
+      "delta": 2.8320259160011965,
+      "confidence": 80,
+      "p10": -0.7262273959467336,
+      "p90": 6.2777498662595255
+    },
+    {
+      "paths": 20000,
+      "position": 2,
+      "delta": 2.818050651412575,
+      "confidence": 80,
+      "p10": -0.711327402505024,
+      "p90": 6.273877973325862
+    },
+    {
+      "paths": 30000,
+      "position": 2,
+      "delta": 2.8221874570493526,
+      "confidence": 80,
+      "p10": -0.6966705931749674,
+      "p90": 6.298531318655847
+    },
+    {
+      "paths": 40000,
+      "position": 2,
+      "delta": 2.8227478943353566,
+      "confidence": 80,
+      "p10": -0.6845569207625158,
+      "p90": 6.289342833562534
+    },
+    {
+      "paths": 50000,
+      "position": 2,
+      "delta": 2.82328237312642,
+      "confidence": 80,
+      "p10": -0.6882219311766932,
+      "p90": 6.292700673839282
+    },
+    {
+      "paths": 60000,
+      "position": 2,
+      "delta": 2.825908848398205,
+      "confidence": 80,
+      "p10": -0.6869074568948917,
+      "p90": 6.3027559152722405
+    },
+    {
+      "paths": 70000,
+      "position": 2,
+      "delta": 2.8238313972801627,
+      "confidence": 80,
+      "p10": -0.6770386545647316,
+      "p90": 6.297948740645947
+    },
+    {
+      "paths": 80000,
+      "position": 2,
+      "delta": 2.8259228349787153,
+      "confidence": 80,
+      "p10": -0.6814749133086326,
+      "p90": 6.300587028865641
+    },
+    {
+      "paths": 90000,
+      "position": 2,
+      "delta": 2.8269189434452535,
+      "confidence": 80,
+      "p10": -0.6823398034082644,
+      "p90": 6.295563467369096
+    },
+    {
+      "paths": 100000,
+      "position": 2,
+      "delta": 2.827447396525345,
+      "confidence": 80,
+      "p10": -0.6785803937308936,
+      "p90": 6.3019163793203266
+    }
+  ]
+}
